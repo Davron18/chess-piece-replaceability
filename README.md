@@ -78,10 +78,10 @@ data/                   one CSV per batch (FEN, evaluations, repair cost, edits)
 notebooks/              Colab notebook
 ```
 
-## Credits and notes
+## Credits
 
 - Games: [Dragjon/chessdatabase](https://github.com/Dragjon/chessdatabase) (MIT), originally from [pgnmentor.com](https://www.pgnmentor.com/files.html).
 - Tools: [python-chess](https://github.com/niklasf/python-chess), [Stockfish 16](https://stockfishchess.org/).
-- The automated pipeline was prototyped with the help of an AI assistant (Claude). I reviewed the code, ran the depth verification myself, and am responsible for the analysis and its interpretation.
+- I reviewed the code, ran the depth verification myself, and am responsible for the analysis and its interpretation.
 
 Davronbek Toshpulatov · Tashkent, Uzbekistan
