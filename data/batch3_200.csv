@@ -1,0 +1,201 @@
+player,white,black,year,fen,knight_sq,E0,E1,damage,cost,best_gap,edits,locked_pairs,structure
+So,"So,W","Flores,Di",2010,r1bq1r1k/3nb2p/pp1p2p1/2pPp2n/NPP1Pp2/P2N1P2/3QBBPP/1R3R1K w - - 4 21,d3,72,15,-57,1,6,Pc4->c3,4,closed
+Kramnik,"Kamsky, Gata","Kramnik, Vladimir",1993,2r3k1/pb2qpp1/1p2pn1p/8/3Q1P2/2N3P1/PPP1B2P/2KR4 w - - 1 21,c3,26,80,54,2,30,Pf4->f5 Pg3->g4,0,open
+Topalov,"Gelfand, Boris","Topalov, Veselin",1994,4n1k1/1bqn1pbp/p2p2p1/2pP2B1/8/NB3N1P/PP1Q1PP1/6K1 w - - 0 21,f3,0,104,104,unrepaired,64,Ph3->h2 Pg2->g3,1,open
+Le,"Reiss,T",Le Quang Liem,2005,r3k2r/1p6/p1nbp2q/3p1pp1/3P3P/P2QP3/1P1NNPP1/R1R3K1 w kq - 1 21,d2,-9,-181,-172,1,1,Pg2->g3,1,open
+VachierLagrave,"Libiszewski,F","Vachier Lagrave,M",2004,r2rb1k1/1pq1bp1p/p1n1p1p1/2P1p3/P1R1P3/1N3N2/1PQ2PPP/R4BK1 w - - 9 21,b3,-79,-118,-39,1,3,Pg2->g3,1,open
+Ivanchuk,"Polgar, Judit","Ivanchuk, Vassily",1996,r3rb2/1bq2p1k/p5pp/np1np3/P1p4N/2PP2NP/1PBB1PP1/R1Q1R1K1 w - - 0 21,h4,-135,-55,80,1,21,Ph3->h2,1,open
+Caruana,"Caruana,F","Nakamura,Hi",2012,3r1rk1/1bq2p2/pp2pn1p/2b1n1p1/P2NP3/1BN2PP1/1P1RQB1P/3R2K1 w - - 0 21,c3,-56,173,229,unrepaired,83,Pe4->e3 Pa4->a3,0,open
+Karpov,"Ljubojevic, Ljubomir","Karpov, Anatoly",1973,br1q1rk1/5ppp/p1np1b2/1p1p4/1PPnP3/P3B3/B2N1PPP/2RQR1K1 w - - 0 21,d2,47,169,122,1,4,Pc4->c5,1,open
+Caruana,"Galyas,M","Caruana,F",2007,r3nrk1/pp1n1ppp/8/q2Pp1P1/1RP1P3/P2B1Q1P/4N3/4K2R w K - 1 21,e2,-189,-107,82,1,4,Pa3->a2,1,open
+Petrosian,"Petrosian, Tigran V","Najdorf, Miguel",1961,r3qrk1/2Rbn1bp/p2p1np1/Pp1Ppp2/1N2P3/1N1BBPP1/1P5P/3QK2R w K - 4 21,b3,108,142,34,1,3,Pa5->a4,3,closed
+So,"Shyam,SM","So,W",2011,r5r1/p2b1k2/2p1pp1p/N1Ppn2q/3N2p1/2P1R3/PP3PP1/R3Q1K1 w - - 6 21,a5,-77,-156,-79,1,9,Pc3->c4,1,open
+Kasparov,"Kasparov, Gary","Hjartarson, Johann",1988,2r1rqk1/pb1n1p2/1p4p1/2pp3p/3P3B/P3PP2/1P1Q1NPP/3RR1K1 w - - 4 21,f2,132,186,54,1,27,Ph2->h3,1,open
+Korchnoi,"Kortschnoj, Viktor","Petrosian, Tigran V",1958,1rr3k1/p4pp1/5n1p/2p1q3/2Q1p3/1P2P1P1/P3NP1P/2RR2K1 w - - 5 21,e2,100,108,8,0,8,,1,open
+Kasparov,"Kasparov, Gary","Lechtynsky, Jiri",1980,2b1r1k1/1p3ppp/1qpb1n2/8/QP1n4/5BP1/4N2P/1RB2R1K w - - 0 21,e2,-27,-143,-116,1,20,Pb4->b5,0,open
+Giri,"Krivonosov,O","Giri,A",2005,r5k1/p4pb1/1pnRr1pp/4p3/4P3/4BN2/PP3PPP/1K5R w - - 2 21,f3,133,133,0,0,0,,1,open
+Ding,"Duda,J",Ding Liren,2018,2rq1rk1/pb5p/1p1bp3/3p1p2/3P4/2N2QP1/PP2PPB1/R1R3K1 w - - 0 21,c3,22,124,102,2,23,Pe2->e3 Pb2->b3,1,open
+Aronian,"Nalbandian,T","Aronian,L",2001,r1b1rbk1/1pq4p/2pp2p1/p1n2p2/PnP1PP2/2N2NPP/1P1R1BB1/3QR1K1 w - - 0 21,f3,153,169,16,0,16,,2,closed
+Petrosian,"Petrosian, Tigran V","Chistiakov, Alexander Nikolaevi",1964,2r2rk1/5ppp/p2p2b1/n3p3/Bp2P1P1/3P3P/PP1q1P2/R3RNK1 w - - 0 21,f1,14,-698,-712,unrepaired,642,Pa2->a3 Pd3->d4,1,open
+Duda,"Duda,J","Ponomariov,R",2018,1rrb2k1/2qn1p1p/pp1pp1p1/8/P1PP4/3QP1P1/3N1PBP/R2R2K1 w - - 3 21,d2,57,109,52,1,7,Pf2->f3,0,open
+Tal,"Grigorian, Levon Ashotovich","Tal, Mihail",1967,4r1k1/pb2qp1p/1pnrp1p1/8/3PB3/2P2N2/P3QPPP/2R1R1K1 w - - 2 21,f3,74,72,-2,0,2,,0,open
+Giri,"Wells,P","Giri,A",2014,3r1rk1/ppq3pp/3n2n1/2pP1p2/2P1bPP1/P6P/BB1Q3N/R4RK1 w - - 0 21,h2,-89,0,89,1,19,Pc4->c3,2,closed
+Giri,Wang Hao,"Giri,A",2013,r4rk1/p3pp1p/3p1bp1/2pP4/2R1P3/3N2P1/Pn3PBP/5RK1 w - - 0 21,d3,-205,-458,-253,unrepaired,129,Pd5->d4 Pa2->a3,1,open
+Svidler,"Adams, Michael","Svidler, Peter",1999,2rq1rk1/1p1n1pp1/p2p4/3Pp3/5bPP/1N1Q4/PPP2B2/1K1RR3 w - - 1 21,b3,28,88,60,unrepaired,39,Ph4->h3 Ph3->h2,1,open
+Smyslov,"Smyslov, Vassily","Keres, Paul",1952,3rr1k1/1b3ppp/1p1p1qn1/1P6/2BPp3/1Q2P2P/4NPP1/R4RK1 w - - 0 21,e2,166,189,23,0,23,,2,closed
+Petrosian,"Botvinnik, Mikhail","Petrosian, Tigran V",1966,4rrbk/p3n1bp/6p1/1qp2p2/4PN2/1P2B1PB/P2Q3P/4RRK1 w - - 0 21,f4,86,444,358,unrepaired,209,Pb3->b4 Pg3->g4,0,open
+Korchnoi,"Taimanov, Mark E","Kortschnoj, Viktor",1959,r3r1k1/1p1n1pp1/2p4p/3p4/1b1PqB2/1P1QP2P/4NPP1/R4RK1 w - - 5 21,e2,18,26,8,0,8,,1,open
+Kasparov,"Kasparov, Gary","Polugaevsky, Lev",1979,r3r1k1/1b2bpPp/p2p4/1p3qP1/4P3/2NPB3/PP6/R3K1R1 w Q - 0 21,c3,-46,15,61,1,20,Pb2->b3,0,open
+Giri,"Van Assendelft,F","Giri,A",2008,3qkb1r/3b1p1p/3p2p1/p2Pp3/1B1nP3/3B4/1P1N1PPP/3Q1RK1 w k - 0 21,d2,104,275,171,2,25,Pg2->g3 Pg3->g4,2,closed
+Navara,"Navara,D","Jansa,Vl",2005,4r3/pbq1rpbk/1p3npp/2pP4/P1P5/3B1N2/3B1PPP/1RQ2RK1 w - - 3 21,f3,79,118,39,1,9,Pa4->a3,1,open
+VachierLagrave,"Vachier Lagrave,M","Efimenko,Z",2010,r3r1k1/1bpn1ppp/1p1p1n2/4q3/1PPQP3/p4PP1/PB1N2BP/3RR1K1 w - - 0 21,d2,90,127,37,1,9,Pb4->b5,1,open
+Petrosian,"Petrosian, Tigran V","Novotelnov, Nikolay Alexandrovi",1949,r1b1r1k1/1pp2ppn/p2p1q1p/4pP1Q/P2PP2P/2P1R1P1/2P3BN/R5K1 w - - 1 21,h2,56,57,1,0,1,,1,open
+Le,"Kazhgaleyev,M",Le Quang Liem,2010,5rk1/pp1r1b1p/1np2ppb/q3p3/P1pPP3/2P2PP1/2Q1BB1P/RR3NK1 w - - 1 21,f1,-70,29,99,1,4,Pg3->g4,2,closed
+Aronian,"Carlsen,M","Aronian,L",2008,r1k4r/1pp1bp2/2p1b1p1/4P2p/p4NP1/1P3P1P/PBP5/3R1RK1 w - - 0 21,f4,-19,-76,-57,2,15,Pb3->b4 Pa2->a3,0,open
+Krush,"Krush,I","Hernandez Guerrero,G",2007,r1b2bnk/ppp2r2/3p2p1/3Pp1qn/2P1Pp2/1PNN1P2/P3B2R/R1BQK3 w - - 0 21,d3,-92,-50,42,1,26,Pb3->b2,3,closed
+Smyslov,"Hort, Vlastimil","Smyslov, Vassily",1960,2k5/3nrppp/p1p1p3/4P3/3R4/2N5/PPP3PP/2K5 w - - 0 21,c3,14,142,128,unrepaired,85,Ph2->h3 Ph3->h4,1,open
+Caruana,"Caruana,F","Goczo,M",2005,2k3rr/1pq2p2/p1n1p3/2bpPp1p/5B1P/8/PPP2PP1/1RNQR1K1 w - - 1 21,c1,-25,52,77,2,16,Pf2->f3 Pa2->a3,2,closed
+Krush,"Krush,I","Matabeek,Sunil",2001,r1q2rnk/1bpn1pbp/p1Bp2p1/3Pp3/1P2P3/2PQ1NN1/5PPP/R1B1R1K1 w - - 3 21,f3,149,196,47,1,3,Pd5->d4,2,closed
+Korchnoi,"Kortschnoj, Viktor","Ghitescu, Theodor",1966,r1b1rqk1/1p4b1/p2p1n1p/P1pPnp2/8/2N1BP2/NP1QB1PP/1R3R1K w - - 1 21,a2,111,250,139,unrepaired,40,Pf3->f2 Pa5->a4,2,closed
+Carlsen,"Erenburg,S","Carlsen,M",2006,r3rbk1/1p1q1pp1/p1pp3p/P2Pp3/1P2P3/1Q1P1N2/5PPP/R3R1K1 w - - 2 21,f3,47,48,1,0,1,,3,closed
+Aronian,"Aronian,L","Fernandez Romero,Ern",2000,r1r3k1/3n1ppp/1nb1p3/2Bp4/2P5/1P2N1P1/4PPBP/R4RK1 w - - 3 21,e3,188,478,290,unrepaired,278,Pg3->g4 Pg4->g3,0,open
+Petrosian,"Kortschnoj, Viktor","Petrosian, Tigran V",1965,r5k1/ppq2pp1/2b3np/2p1p3/2P1P3/5NP1/PPBQ1P1P/3R2K1 w - - 0 21,f3,-41,-14,27,0,27,,2,closed
+Spassky,"Spassky, Boris V","Portisch, Lajos",1967,2kn1r2/ppp1bp2/3p3p/8/2BPPPr1/2P5/PP1B3K/R5N1 w - - 0 21,g1,-100,-50,50,1,2,Pe4->e3,0,open
+Giri,"Harikrishna,P","Giri,A",2014,1r3rk1/3bqppn/p2p3p/npp1p3/4P1P1/2PPPN1P/PPBN1R1Q/5RK1 w - - 3 21,d2,32,29,-3,0,3,,1,open
+Karpov,"Kalashnikov, Viacheslav","Karpov, Anatoly",1962,r1r2bk1/3b1ppp/1n1p1n2/1p1Pp3/pP2P1P1/P3BN1P/2q2P2/R2QRNK1 w - - 0 21,f3,-126,3,129,1,7,Ph3->h4,4,closed
+Kasparov,"Karpov, Anatoly","Kasparov, Gary",1990,r4r1k/pppbq1bp/3p1n2/3P2P1/2P1p3/2n1B3/PP1QBN1P/2KR2R1 w - - 0 21,f2,144,227,83,1,27,Pb2->b3,1,open
+VachierLagrave,"Short,N","Vachier Lagrave,M",2013,2r1r1k1/p6p/2nnpbp1/q2p4/5P2/1R4P1/P1PQNBBP/1R4K1 w - - 5 21,e2,-12,63,75,1,17,Pf4->f5,0,open
+Le,Le Quang Liem,"Kosintseva,N",2014,3rn1k1/ppqr1pbp/n1ppb1p1/8/1PP1PB2/5NNP/P2Q1PP1/3RRBK1 w - - 1 21,g3,172,374,202,unrepaired,79,Pe4->e3 Pb4->b3,0,open
+Le,"Ivanchuk,V",Le Quang Liem,2013,r2br1k1/p1p2ppp/3p1n2/8/5P2/1q1PP1N1/1B4PP/3RQRK1 w - - 0 21,g3,-94,-116,-22,0,22,,0,open
+Ivanchuk,"Ivanchuk, Vassily","Ehlvest, Jaan",1996,r2rn1k1/pb3ppp/1p2p1n1/4P3/2BN1P1q/8/PP1QN1PP/2R1R1K1 w - - 3 21,e2,5,192,187,2,5,Ph2->h3 Pe5->e4,1,open
+Ding,Ding Liren,Zhou Jianchao,2011,4rrk1/pp4pp/2pbq3/3p1p2/1P1P2n1/2N1P1P1/P1Q1BPP1/1R3RK1 w - - 1 21,c3,-68,-66,2,0,2,,1,open
+Karpov,"Karpov, Anatoly","Spassky, Boris V",1971,r2q1r2/5pk1/p2p1np1/npp1p2p/4PP2/2PP1QNP/PPB3P1/R3R1K1 w - - 0 21,g3,59,336,277,unrepaired,37,Ph3->h4 Pc3->c4,1,open
+Kramnik,"Kramnik, Vladimir","Bareev, Evgeny",1993,r5k1/2b2rpp/pp6/2p1P3/P1p2P2/2Nn2P1/1P4KP/R1B2R2 w - - 1 21,c3,47,82,35,1,6,Pg3->g4,0,open
+Ivanchuk,"Epishin, Vladimir","Ivanchuk, Vassily",1993,r3r1k1/1pp2pp1/2bpn2p/8/p1PqP2P/4R1P1/PP3PB1/1NQ1R1K1 w - - 2 21,b1,-1,75,76,1,1,Pf2->f3,0,open
+Fischer,"Fischer, Robert James","Sanguineti, Raul",1959,r3rbk1/6pp/pq1pbp2/1pp1p3/1PnPP2B/2P2N1P/P1B2PP1/2RQR1K1 w - - 0 21,f3,-49,46,95,1,16,Pg2->g3,2,closed
+Caruana,"Caruana,F","Klenburg,M",2009,1qr3k1/2rbbppp/2np1n2/1p2p3/p2PP3/P2BBN1P/1P1NQPP1/2R1R1K1 w - - 5 21,f3,57,10,-47,2,29,Pa3->a2 Pb2->b3,2,closed
+Karpov,"Torre, Eugenio","Karpov, Anatoly",1977,bqr1r1k1/3n1ppp/pp1pp1n1/8/1PP1PP1b/PNNBB2P/2R2QP1/2R3K1 w - - 7 21,b3,28,108,80,1,7,Pf4->f5,0,open
+Firouzja,"Caruana,F","Firouzja,Alireza",2020,r1b1r2k/pp4qp/n1p3p1/2PB1p2/4p3/1Q4P1/PP2PP1P/3RNRK1 w - - 0 21,e1,-59,565,624,unrepaired,541,Pa2->a3 Pc5->c4,1,open
+Fischer,"Portisch, Lajos","Fischer, Robert James",1961,1r2k3/p4p2/2R1bprp/3p4/3P3P/4P3/P2N1P2/5K1R w - - 3 21,d2,31,-17,-48,1,7,Pf2->f3,1,open
+Spassky,"Spassky, Boris V","Byrne, Robert E",1969,2bq1rk1/6rp/p2p3n/n1pP1p2/1pP1pP2/1PQ3P1/P2N2BP/3NRRK1 w - - 0 21,d2,30,90,60,1,28,Pb3->b2,4,closed
+Aronian,"Carlsen,M","Aronian,L",2007,r4rk1/2q1bp1p/bn2p1p1/4P1B1/1ppPQ3/2P2N2/2B2PPP/1R3RK1 w - - 0 21,f3,72,41,-31,1,23,Ph2->h3,2,closed
+Ivanchuk,"Razuvaev, Yuri S","Ivanchuk, Vassily",1986,r4r1k/1p3qp1/2n1bp1p/pnP1p2P/3pN3/PP1P1NP1/2Q2PB1/R3R1K1 w - - 1 21,f3,-122,101,223,unrepaired,76,Pg3->g4 Pa3->a2,2,closed
+Fischer,"Byrne, Donald","Fischer, Robert James",1963,5rk1/2qbnpbp/3pp1p1/2p3P1/1pP1PP1N/3PB3/rP4BP/1R1Q1R1K w - - 6 21,h4,-82,-36,46,1,8,Pe4->e5,2,closed
+VachierLagrave,"Vachier Lagrave,M","Wojtaszek,R",2010,1r2r1k1/2q1bpp1/2npb2p/p3p3/PpB1P3/1P1Q1N1P/2P2PP1/R1B1R1K1 w - - 0 21,f3,26,38,12,0,12,,3,closed
+Tal,"Balashov, Yuri S","Tal, Mihail",1971,3rrnk1/pp3p1p/2ppb1p1/2q5/2P1PN2/2Q2P2/PP2N1PP/2RR3K w - - 8 21,e2,71,22,-49,1,19,Pb2->b3,0,open
+Svidler,"Svidler,P","Hansen,Cu",2000,r6k/p2qn1pp/1pr1p3/n2pPp2/3P1N1P/P1P3R1/3B1PP1/R2QK3 w Q - 5 21,f4,64,-47,-111,1,1,Pe5->e4,2,closed
+Firouzja,"Aronian,L","Firouzja,Alireza",2019,2r1r1k1/pb2bp1p/1p2q1pQ/3pn3/3P4/2B1N3/PP3PPP/R3R1K1 w - - 0 21,e3,18,0,-18,0,18,,1,open
+Aronian,"Aronian,L","Anastasian,A",2000,r1q1r1k1/1p3ppp/3p1b2/p3n3/P1P1b3/1P2B2P/3QBPP1/3RNRK1 w - - 1 21,e1,53,114,61,1,11,Pc4->c3,1,open
+Kramnik,"Kramnik, Vladimir","Campora, Daniel H",1998,2r1r3/1p1k1p1p/p4p2/3P4/n7/P2R1NP1/1P3P1P/1K5R w - - 3 21,f3,117,505,388,unrepaired,119,Pg3->g4 Pd5->d6,0,open
+Korchnoi,"Kortschnoj, Viktor","Keres, Paul",1962,1q3rk1/pp3ppp/4b3/1P1p4/N3nP2/P2Q2P1/4P1BP/2R3K1 w - - 1 21,a4,97,64,-33,1,19,Pg3->g4,0,open
+Tal,"Tal, Mihail","Ragozin, Viacheslav",1956,3rnrk1/pp2ppbq/2p1b2p/8/Q2PP2p/2NN1B2/PP3PPP/R4R1K w - - 5 21,c3,68,175,107,2,26,Pb2->b3 Pb3->b4,0,open
+Aronian,"Aronian,L","Kramnik,V",2007,6r1/1p2kpp1/p3p1bp/2n5/P3P2P/5P2/BP2K1P1/1N5R w - - 0 21,b1,62,76,14,0,14,,0,open
+Aronian,"Aronian,L","Izoria,Z",2001,r1r3k1/3n1pp1/2q1pn1p/ppP4P/1P3B2/3R1PN1/P1PQ2P1/1K5R w - - 0 21,g3,93,105,12,0,12,,2,closed
+Karpov,"Williams, Arthur H","Karpov, Anatoly",1974,2b3r1/kp1nqp2/r2p1n1R/pQpP2p1/P1P1p3/2P1P1B1/1RB1NPP1/4K3 w - - 8 21,e2,-175,-81,94,unrepaired,98,Pf2->f3 Pf3->f2,4,closed
+Kosteniuk,"Heedt,T","Kosteniuk,A",2001,r3r1k1/pp1qnpnp/2pp2p1/8/1PP1P3/4NNP1/PQ3PKP/1R3R2 w - - 1 21,f3,155,402,247,1,16,Pg3->g4,0,open
+Le,"Lima,Da",Le Quang Liem,2006,3rr1k1/1b2qppp/p1n2n2/2p5/PpP1P3/1P3N2/1BBNQPPP/4R1K1 w - - 7 21,f3,-7,18,25,0,25,,2,closed
+Aronian,"Ivanchuk,V","Aronian,L",2006,r3rbk1/1q1n1ppp/3p4/1ppN2B1/3nP3/4R2P/1PPN1PP1/R2Q2K1 w - - 0 21,d2,18,109,91,1,10,Pf2->f3,0,open
+Caruana,"Caruana,F","Colpe,H",2005,1r3rk1/Q1p1qp2/2Pp3p/6p1/2b1N3/6B1/PP3PPP/3R1K1R w - - 1 21,e4,-52,-2,50,unrepaired,34,Pa2->a3 Pc6->c5,1,open
+Petrosian,"Petrosian, Tigran V","Averbakh, Yuri L",1954,r3rk2/1p2npp1/p1p1b2p/2Pp4/3P4/2N5/PP1RBPPP/5RK1 w - - 3 21,c3,-25,50,75,unrepaired,36,Pc5->c4 Pg2->g3,2,closed
+Ivanchuk,"Ivanchuk, Vassily","Timman, Jan H",1991,2r5/ppNbkpp1/2n1pq1p/8/3p1PP1/P1nQ2B1/2PK2B1/R5R1 w - - 1 21,c7,190,310,120,unrepaired,134,Pa3->a2 Pf4->f5,0,open
+Navara,"Meier,Geo","Navara,D",2009,3r1rk1/pp4pp/4b2q/1N1pn3/7P/6P1/PP2BP2/R2Q1RK1 w - - 4 21,b5,-51,7,58,2,30,Pf2->f3 Ph4->h5,0,open
+Euwe,"Alekhine, Alexander","Euwe, Max",1926,r3nrk1/1p2q1bp/p2p4/3P4/5Pp1/3bB1N1/PP1Q3P/1K1R3R w - - 0 21,g3,133,4,-129,2,22,Ph2->h3 Pd5->d4,1,open
+Kramnik,"Kramnik, Vladimir","Anand, Viswanathan",1999,r4rk1/1p3ppp/p1p5/q3Pb2/1b2PQ2/6P1/PP2P2P/R2N1RK1 w - - 0 21,d1,-27,4,31,1,11,Pg3->g4,0,open
+Carlsen,"Carlsen,M","Savchenko,B",2007,2rq4/pp1b1pkp/3prpp1/8/4P3/1PP2N1P/1P1Q1PP1/3RR1K1 w - - 1 21,f3,42,114,72,1,8,Pc3->c2,0,open
+Petrosian,"Blagidze, Alexander","Petrosian, Tigran V",1957,rq2rbk1/1b1n1p1p/5np1/2pP4/Pp1B4/1P3P2/2Q1B1PP/1NNRR1K1 w - - 0 21,b1,-9,40,49,1,12,Pb3->b2,1,open
+Morphy,"Morphy, Paul ","Boden, Samuel Standige",1858,r1b1k2r/1pp2pq1/p2pn3/4p1pp/PPB1P2n/1QPPP2P/3N1B2/1K1R3R w kq - 2 21,d2,4,25,21,0,21,,1,open
+Carlsen,"Carlsen,M","Pedersen,Stef",2007,4rrk1/p1qn1pp1/1p1b1n1p/3P4/6P1/1N1p2P1/PP4BP/R1BQ1RK1 w - - 0 21,b3,-29,-66,-37,unrepaired,54,Pa2->a3 Pa3->a2,0,open
+Kramnik,"Piket, Jeroen","Kramnik, Vladimir",1998,2r1r1k1/pp2qppp/2n3b1/8/3pPQP1/P2B1N1P/1P3PK1/2R1R3 w - - 1 21,f3,55,0,-55,1,15,Pg4->g3,0,open
+Nepomniachtchi,"Huzman,A","Nepomniachtchi,I",2010,r1q1r1k1/1pp2pb1/1n2p1pp/8/p1bPP3/2NnBNPP/PP3PBK/R1QR4 w - - 6 21,c3,155,366,211,unrepaired,81,Pg3->g4 Pa2->a3,0,open
+Carlsen,"Carlsen,M","Aronian,L",2008,r1k4r/1pp1bp2/2p1b1p1/4P2p/p4NP1/1P3P1P/PBP5/3R1RK1 w - - 0 21,f4,-21,-53,-32,2,10,Pb3->b4 Pa2->a3,0,open
+Smyslov,"Smyslov, Vassily","Keres, Paul",1941,rqr3k1/n2b1ppp/pb1p1n2/1p1Pp3/1P2P3/1N1B1N1P/P2B1PP1/R2QR1K1 w - - 3 21,b3,71,82,11,0,11,,3,closed
+Ivanchuk,"Ivanchuk, Vassily","Tukmakov, Vladimir B",1990,1k4rr/1p3p2/pbb1pp2/2qp3p/4PP2/3B2PQ/PPP4P/1KNRR3 w - - 0 21,c1,-31,-3,28,0,28,,0,open
+Morphy,"Medley, George Webb","Morphy, Paul ",1858,5rk1/2n2p1p/p2rb1p1/1p6/2p1B3/2P2QPq/PP3P1P/RN3RK1 w - - 0 21,b1,-121,-9,112,2,23,Pc3->c2 Pb2->b3,1,open
+Carlsen,Zhao Xue,"Carlsen,M",2006,2r3k1/p3qp1p/1pp2bp1/8/4P3/P4N2/1PQ2PPP/3R2K1 w - - 0 21,f3,-4,-2,2,0,2,,0,open
+Topalov,"Topalov, Veselin","Seirawan, Yasser",1993,r4rk1/pp1qn1b1/2p1b1p1/4Pp2/3B1P2/1PN3pP/P5B1/1R1Q1RK1 w - - 0 21,c3,36,76,40,1,21,Pb3->b2,1,open
+Giri,"Ivanchuk,V","Giri,A",2012,r1brnk2/pp2b3/5p1p/1N2Bpp1/2N5/P3PP2/1P2KP1P/2R3R1 w - - 0 21,c4,-39,94,133,unrepaired,45,Pb2->b3 Pe3->e4,0,open
+Morphy,"Baucher, H.","Morphy, Paul ",1858,r2k2r1/pp2bp1p/2npb3/8/3P1Q1n/2N2B2/PPP3P1/2KR4 w - - 0 21,c3,-138,217,355,unrepaired,45,Pd4->d3 Pa2->a3,0,open
+Korchnoi,"Ivkov, Borislav","Kortschnoj, Viktor",1968,5rk1/pb1r1ppp/1p1pp1q1/2n5/2PQP3/1P4P1/P1N1RPBP/R5K1 w - - 7 21,c2,33,39,6,0,6,,0,open
+Nakamura,"Abbasov,F","Nakamura,H",2007,r1r5/3n2kp/3p2p1/4pp2/8/1NP1B1P1/Pn2PP1P/R3K2R w KQ - 0 21,b3,-67,250,317,unrepaired,65,Pa2->a3 Pg3->g2,0,open
+Kasparov,"Negulescu, Adrian","Kasparov, Gary",1980,r2q1rk1/5pbp/6p1/2n1p3/3pP3/3P1QP1/3B1P1P/1R1N1RK1 w - - 4 21,d1,67,106,39,1,15,Pe4->e3,2,closed
+Ding,"Grischuk,A",Ding Liren,2017,1r1qr1k1/2p2pp1/p1nbbn1p/P3p3/4P3/1BP1BN1P/Q2N1PP1/R3R1K1 w - - 3 21,f3,147,195,48,1,5,Pc3->c2,2,closed
+VachierLagrave,"Lupulescu,C","Vachier Lagrave,M",2012,r3r1k1/p4pb1/2pq4/5p2/3P4/8/PP2NPP1/2RQ1K1R w - - 0 21,e2,154,106,-48,1,13,Pb2->b3,0,open
+Fischer,"Saltzberg, Mitchell","Fischer, Robert James",1957,1rb1r1k1/2qn1pb1/p1pp2pp/1p6/2PnPP2/P1N1B1PP/1P1N2B1/1Q1RR1K1 w - - 0 21,d2,107,148,41,1,3,Ph3->h4,0,open
+Smyslov,"Golombek, Harry","Smyslov, Vassily",1952,2r1qrk1/1p3pbp/6p1/nB6/p1b1P3/P1N2N2/1P2QPPP/R2R2K1 w - - 2 21,f3,29,167,138,unrepaired,47,Pa3->a2 Ph2->h3,1,open
+Kramnik,"Kramnik, Vladimir","Ehlvest, Jaan",1995,5rk1/pb4pp/1p2qp2/2np4/4nBP1/4P2P/PP3PB1/2NQR1K1 w - - 1 21,c1,76,68,-8,0,8,,0,open
+So,"So,W","Hussein,AH",2011,1r1qrbk1/3b1pp1/2pp1n1p/3Pn3/1P2PB2/pP4NP/P1BQ2PN/R3R1K1 w - - 2 21,g3,-40,27,67,1,6,Ph3->h4,2,closed
+Nakamura,"Knoll,H","Nakamura,Hi",2008,r2r2k1/1b2qppp/4nb2/pp1p4/2pP1N2/P3PNP1/1PQ2PBP/2RR2K1 w - - 0 21,f4,-38,-85,-47,1,14,Pa3->a2,1,open
+Aronian,"Aronian,L","Ivanchuk,V",2008,5rk1/1b1q1pp1/2n4p/r2B4/1p5P/2P2N2/1R3PP1/3QR1K1 w - - 0 21,f3,82,361,279,unrepaired,106,Pc3->c2 Ph4->h3,0,open
+Caruana,"Piscopo,P","Caruana,F",2008,2r1k2r/2q1bppp/p3p3/3b2P1/1pnN1P2/3Q4/PPP1N2P/1KBRR3 w k - 0 21,e2,107,132,25,0,25,,0,open
+Le,Le Quang Liem,Bui Vinh,2007,1k1r3r/pb2qp2/1p4pp/2n5/3Np1P1/2N1P3/PPQ2P1P/1K1R2R1 w - - 0 21,c3,-85,31,116,unrepaired,35,Pb2->b3 Pa2->a3,1,open
+Firouzja,"Firouzja,Alireza","Narayanan,SL",2018,r2q2k1/pp3rpp/1bp1n1p1/3pP3/P2P4/1Q2RN1P/1P2NPP1/R5K1 w - - 1 21,e2,3,-28,-31,1,3,Ph3->h4,1,open
+Kasparov,"Kasparov, Gary","Andersson, Ulf",1985,3b3r/pq1k3p/2nNpp2/6p1/8/4B1P1/PP2PP1P/2R3K1 w - - 2 21,d6,255,-554,-809,unrepaired,801,Pg3->g2 Pa2->a3,0,open
+Navara,"Navara,D","Akopian,Vl",2007,2b2rk1/1n3ppp/1p2p3/8/1PP4N/8/2B2PPP/r1KR3R w - - 1 21,h4,54,302,248,2,8,Pc4->c5 Pb4->b3,0,open
+Petrosian,"Pirc, Vasja","Petrosian, Tigran V",1957,4rrk1/1ppq1bbp/3p2p1/p2Pnp2/8/1PBPP1P1/P1NQ2BP/1R3RK1 w - - 1 21,c2,37,119,82,1,1,Pe3->e2,1,open
+Caruana,"Okhotnik,V","Caruana,F",2007,2rq1rk1/p1p2pp1/1nB2nbp/3P4/3P1BP1/P4P1N/5K1P/R2QR3 w - - 7 21,h3,35,129,94,2,5,Pd4->d3 Pa3->a2,0,open
+Morphy,"Morphy, Paul ","Morphy, Ernest",1850,r1b2r2/1ppp1pk1/pq4n1/8/4PPpp/1BP1R3/P1QN2PP/4R1K1 w - - 3 21,d2,192,221,29,0,29,,0,open
+Euwe,"Hounie Fleurquin, Carlos","Euwe, Max",1947,r2r2k1/p3qppn/2p1b2p/1p1P4/8/1PP2N1P/1P3BP1/R2QR1K1 w - - 1 21,f3,77,147,70,1,1,Ph3->h2,0,open
+Ding,Ding Liren,"Munkhgal,G",2011,4r1k1/pp3pp1/3q1nn1/3p1b1p/3P4/P1Q1BPP1/1P1NB2P/4R1K1 w - - 0 21,d2,3,117,114,2,0,Ph2->h3 Pa3->a2,1,open
+Aronian,"Kanep,M","Aronian,L",2005,r4rk1/1b2qpb1/1pn1p1p1/1B1pP2p/P2P1P2/8/3NN1PP/RQ3RK1 w - - 1 21,d2,38,171,133,2,26,Pd4->d3 Pg2->g3,2,closed
+Nakamura,"Ivanov,AV USA","Nakamura,H",2006,1k1r1nr1/1bbq1p2/1pp1p3/p4p1p/P2P4/1QP1N1B1/1P3PPP/3RRBK1 w - - 0 21,e3,60,309,249,unrepaired,57,Pf2->f3 Pf3->f4,1,open
+Kosteniuk,"Girya,O","Kosteniuk,A",2011,2rr2k1/pb1n2pp/4p3/1Ppp1p2/P1P1n3/N5P1/1R1NPPBP/2R3K1 w - - 0 21,d2,35,73,38,1,13,Pc4->c3,1,open
+Carlsen,"Ostenstad,B","Carlsen,M",2003,2rq1rk1/4ppbp/p2nb1p1/1pB5/P2PP3/2NQ2PP/5PB1/1R1R2K1 w - - 1 21,c3,104,184,80,1,28,Pf2->f3,0,open
+Fischer,"Fischer, Robert James","Seidman, Herbert",1956,3rr1k1/4bppp/2n1qn2/pbp1p3/2N1P3/1NP3PP/1PQ2P1K/R1B1RB2 w - - 7 21,b3,103,383,280,unrepaired,69,Pg3->g4 Ph3->h4,1,open
+Nepomniachtchi,Shen Yang,"Nepomniachtchi,I",2004,1r4k1/r3bppp/pq1p1n2/4p3/2Q1P1P1/1N3P2/PP2B2P/1KR4R w - - 3 21,b3,-19,207,226,unrepaired,34,Pa2->a3 Pf3->f4,1,open
+Smyslov,"Smyslov, Vassily","Kasparian, Genrikh",1947,3r1k1r/1q2bpp1/p3p2p/1p1nP3/6QP/6N1/PP1B1PP1/1KR1R3 w - - 5 21,g3,112,68,-44,1,0,Pf2->f3,1,open
+Caruana,"Ketzetzis,Giorgos","Caruana,F",2004,4rr1k/p2b2b1/1pp3qp/2p1pp2/5n1B/2NPQ2P/PPPN1PPK/3RR3 w - - 4 21,d2,-138,-19,119,1,24,Pb2->b3,0,open
+Nakamura,"Lie,K","Nakamura,Hi",2009,2r2rk1/2qnppbp/3p2p1/1R1P4/4P3/4B3/N1PQ1PPP/5RK1 w - - 1 21,a2,3,42,39,2,12,Pf2->f3 Pe4->e5,1,open
+Smyslov,"Smyslov, Vassily","Gerstenfeld, Eduard Issakovich",1940,1qr2rk1/3bbppp/n2p1n2/Np1Pp3/pP2P3/P2B1N2/4QPPP/R1B1R1K1 w - - 6 21,a5,202,164,-38,1,9,Pd5->d4,4,closed
+Carlsen,"Ivanchuk,V","Carlsen,M",2007,r2q2k1/ppp2pbp/2n4B/2Pp1p2/3P4/1PN5/P2QrPPP/4R1K1 w - - 0 21,c3,75,140,65,1,20,Pd4->d3,1,open
+Giri,"Giri,A","Gashimov,V",2011,r1b1r1k1/5p1p/pn1p2p1/2pPq3/4P3/1P1B3P/R2N1PP1/3QR1K1 w - - 0 21,d2,79,243,164,unrepaired,51,Pg2->g3 Pe4->e3,1,open
+Carlsen,"Ivanchuk,V","Carlsen,M",2008,3q2k1/3bpr1p/3p2p1/1p1nP3/p2N1PnQ/2P5/P1P3PP/1K1RR3 w - - 1 21,d4,-8,149,157,unrepaired,148,Pg2->g3 Pg3->g2,0,open
+Petrosian,"Tal, Mihail","Petrosian, Tigran V",1959,1qr2rk1/1b1nbp1p/p2p2p1/1p1Pp3/n3P3/4NN1P/PPRB1PP1/RB1Q2K1 w - - 2 21,f3,39,128,89,2,30,Pd5->d4 Pa2->a3,2,closed
+Korchnoi,"Kortschnoj, Viktor","Bilek, Istvan",1965,3r2kr/pp2qpb1/2p1bnp1/3pN2p/3P1Q1P/2N1PP2/PPB3P1/1K1RR3 w - - 2 21,c3,3,93,90,2,11,Pb2->b3 Pb3->b4,2,closed
+Euwe,"Znosko Borovsky, Eugene ","Euwe, Max",1923,2r1r1k1/pp2ppbp/1n1q2p1/3p1b2/3P4/1P2B1P1/P3PPBP/R2QNRK1 w - - 5 21,e1,-22,-7,15,0,15,,1,open
+Kasparov,"Kasparov, Gary","Short, Nigel D",1987,1rr3k1/pb1n2pp/4p3/PR1p1p2/2Pqn3/N4NP1/4PPBP/R5K1 w - - 0 21,a3,11,58,47,1,14,Pa5->a4,0,open
+Karpov,"Karpov, Anatoly","Huebner, Robert",1973,r4rk1/1q1n1pbp/2b1p1p1/1p2P3/2P5/2NBB3/4Q1PP/2RR2K1 w - - 0 21,c3,57,59,2,0,2,,1,open
+So,"So,W","Aronian,L",2015,2b1kbnr/1rp2qpp/2p5/3p1PP1/2P1p3/7Q/PP1NB2P/R1B1K2R w KQk - 2 21,d2,231,479,248,1,7,Pg5->g4,0,open
+Nakamura,"Nakamura,Hi","Svidler,P",2010,2r2rk1/p3p2p/4qpp1/3pPb2/1p1P1Pn1/4P3/PP1B2BP/R2QN1K1 w - - 0 21,e1,-145,-124,21,0,21,,1,open
+Kasparov,"Kasparov, Gary","Moggi, C.",1988,rqb1r1k1/1p3pn1/1Bpp1npb/7p/1PP1PP2/pNN3PP/P4QB1/3RR1K1 w - - 7 21,b3,211,339,128,1,5,Ph3->h4,1,open
+Kasparov,"Ljubojevic, Ljubomir","Kasparov, Gary",1987,r2q2k1/3r1bbp/2R2n2/1N1pppp1/Qp6/3PP1P1/P3NPBP/5RK1 w - - 0 21,b5,-12,101,113,1,26,Pf2->f3,0,open
+Morphy,"Anderssen, Adolf","Morphy, Paul ",1858,r2qr1k1/2p1npp1/pb3n1p/1p3N2/3P4/P3BN1P/1P3PP1/RB3QK1 w - - 1 21,f5,-200,-189,11,0,11,,0,open
+Fischer,"Fischer, Robert James","Weinstein, Raymond Allen",1963,5rk1/1nqbbp1p/3p1np1/1p1Pp3/1P2P3/R4N1P/2BN1PP1/2BQ2K1 w - - 4 21,d2,200,367,167,2,18,Pg2->g3 Pb4->b3,3,closed
+Svidler,"Topalov, Veselin","Svidler, Peter",1998,2rqrbk1/1b3pp1/p4n1p/1p1p4/3BP3/1P1B2N1/P4PPP/R2QR1K1 w - - 0 21,g3,29,39,10,0,10,,0,open
+Kramnik,"Kramnik, Vladimir","Karpov, Anatoly",1994,3qr1k1/1br1pp1p/pp1p1np1/3P4/1P1Q4/5NPB/P3PP1P/2RR2K1 w - - 1 21,f3,55,117,62,1,3,Pb4->b5,1,open
+Spassky,"Spassky, Boris V","Gligoric, Svetozar",1970,2rqrbk1/3b1pp1/pn1p1n1p/1p1Pp3/2P1P3/2P1B1NP/P1BN1PP1/R2QR1K1 w - - 1 21,d2,107,197,90,1,10,Ph3->h4,2,closed
+Tal,"Tal, Mihail","Portisch, Lajos",1965,r4rk1/2q2ppp/1n6/np2p3/2p1P1P1/2P2N2/1PB2PP1/R1Q1R1K1 w - - 1 21,f3,42,-12,-54,2,30,Pg4->g5 Pg2->g3,2,closed
+Carlsen,"Gaasland,Glenn","Carlsen,M",2001,2r2rk1/pbp2pp1/4q2p/3n4/8/P2QPP2/1P3BPP/R3K1NR w KQ - 1 21,g1,-72,-116,-44,1,28,Pe3->e2,0,open
+Korchnoi,"Kortschnoj, Viktor","Cobo Arteaga, Eldis",1969,q4rk1/4bpp1/r3p2p/2n1P3/Np5P/1P3N2/P1Q2PP1/1K1R3R w - - 0 21,a4,-10,-95,-85,unrepaired,146,Ph4->h5 Ph5->h4,2,closed
+Aronian,"Mateo,Ra","Aronian,L",2000,r1q2rk1/1b2ppbp/4n1p1/3BP1B1/p7/2N5/PPn3PP/2NRQR1K w - - 0 21,c3,-134,-124,10,0,10,,0,open
+Spassky,"De Greiff, Boris","Spassky, Boris V",1962,4r1k1/ppb1q1pp/2p5/2Ppp3/3P2Q1/4P3/PP1N2PP/5RK1 w - - 2 21,d2,-52,-34,18,0,18,,2,closed
+Caruana,"Caruana,F","Bruno,Fabi",2011,1k3rr1/pp1bnpp1/2n1p2p/3pP2P/q1pP4/P1P2RPB/2PB1PNK/R2Q4 w - - 15 21,g2,36,117,81,unrepaired,47,Pg3->g4 Pd4->d3,4,closed
+Spassky,"Forintos, Gyozo V","Spassky, Boris V",1960,2kr3r/pp3pp1/2n5/4p3/qP1pn3/N1P1B1P1/PQ2PPK1/R4R2 w - - 0 21,a3,-113,-27,86,2,10,Pg3->g4 Pg4->g5,0,open
+Krush,"Krush,I","Kriventsov,S",2006,3rrk2/pp1bnpbQ/1q4p1/4p3/2BPP3/5P2/P2BN1P1/2R2K1R w - - 8 21,e2,296,425,129,1,11,Pg2->g3,1,open
+So,Wynn Zaw Htun,"So,W",2006,3q3k/p3nr1p/2bp1ppQ/2p1p3/2P1P2P/1R1P1NP1/P4PB1/6K1 w - - 3 21,f3,24,29,5,0,5,,2,closed
+Kasparov,"Yudasin, Leonid","Kasparov, Gary",1988,2r1r1k1/1b2qpbp/p2ppnp1/1pn2P2/3BP3/P1NB3Q/1PP1N1PP/3R1R1K w - - 3 21,e2,-52,13,65,1,3,Pg2->g3,0,open
+Petrosian,"Petrosian, Tigran V","Golz, Werner",1960,4r1k1/pp1rqpn1/3pbnpp/NPp5/2P5/2N1PB2/PQ3PPP/R2R2K1 w - - 8 21,a5,62,53,-9,0,9,,1,open
+Navara,"Hajek, Lukas","Navara, David",1993,5r1r/ppq1b1pk/3p2b1/2p1P3/8/3P2Q1/PPPN2PP/R4RK1 w - - 5 21,d2,-154,-203,-49,1,17,Pe5->e6,0,open
+Le,Le Quang Liem,Pham Le Thao Nguyen,2009,1r2k2r/1p1nbpp1/p1p2nbp/4p3/P2PP1PP/1BN1BP2/1P4N1/2R2RK1 w k - 0 21,g2,167,190,23,0,23,,1,open
+Firouzja,"Firouzja,Alireza","Dominguez Perez,L",2020,r3r1k1/1p2npnp/3p1qp1/p2P4/1Q2BP2/1P4N1/P1P4P/1K1R3R w - - 0 21,g3,-79,-16,63,1,24,Ph2->h3,1,open
+Kosteniuk,"Bodnaruk,A","Kosteniuk,A",2010,1k1r2r1/1pp2R1p/p1b5/4p3/2B1n2P/N1P5/PP4P1/3R3K w - - 1 21,a3,12,142,130,2,8,Pg2->g3 Pg3->g4,0,open
+Tal,"Kristiansen, Erling","Tal, Mihail",1966,2bqr1k1/3n1p1p/p1pbp1p1/2P5/3pPP2/3B1Q1P/Pr2NRP1/2R3K1 w - - 0 21,e2,-87,138,225,2,17,Pe4->e3 Ph3->h2,1,open
+Petrosian,"Petrosian, Tigran V","Ciocaltea, Victor",1953,r2q1r2/5pbk/p3b2p/3np1pP/2Bn2P1/4BPN1/PP1QN3/2R2RK1 w - - 0 21,e2,102,37,-65,unrepaired,31,Pb2->b3 Pf3->f2,2,closed
+VachierLagrave,"Maze,S","Vachier Lagrave,M",2004,2kr4/pp3prp/2npp3/2p3q1/2PPP3/1P3Q1P/P1N3P1/3RR1K1 w - - 1 21,c2,-69,-237,-168,1,26,Pe4->e5,1,open
+Le,"Sengupta,D",Le Quang Liem,2004,r4rk1/1b2bppp/1q2p3/p2p2P1/1p1RPP1P/6N1/PPPQ4/1K3B1R w - - 0 21,g3,-95,-138,-43,1,4,Pe4->e5,0,open
+VachierLagrave,"Vachier Lagrave,M",Ni Hua,2006,2r2rk1/4qppp/2b5/p1R1p3/1p2P3/4N3/PP3PPP/3Q1RK1 w - - 1 21,e3,9,53,44,1,12,Pa2->a3,1,open
+Nepomniachtchi,"Bareev,E","Nepomniachtchi,I",2009,1r4k1/4pp1p/q2p2p1/2pPb3/Nr2P3/1P4PP/P1Q2PK1/1R2R3 w - - 3 21,a4,-13,36,49,1,12,Pg3->g4,1,open
+Nakamura,"Nakamura,H","De Firmian,N",2003,r4rk1/p1pn1p1p/1p2q1p1/1P1pp3/3PP3/2PQ1P2/P3N1PP/R4RK1 w - - 0 21,e2,0,22,22,0,22,,3,closed
+Kosteniuk,"Kosteniuk,A","Kramnik,V",2009,3rr3/ppp2pkp/5np1/3P1n2/4p2P/P5P1/1PP1NPB1/2KR3R w - - 0 21,e2,-157,-53,104,1,0,Pf2->f3,0,open
+Carlsen,"Carlsen,M","Gelfand,B",2007,5rk1/1q1n2pp/r7/ppP1pp2/4b3/P1B1P1Q1/1P3PPN/2RR2K1 w - - 2 21,h2,34,5,-29,0,29,,0,open
+Carlsen,"Milov,V","Carlsen,M",2007,r4r2/1q1bppkp/p2p4/2pP4/P1B1Pnp1/RP6/N1Q2PPP/5RK1 w - - 0 21,a2,36,7,-29,0,29,,1,open
+Krush,"Krush, Irina","Subbaraman, M.",1991,1r6/p1qn1p1k/2p2npb/2Pp3p/3P4/P1N2P2/2QBBP1P/1R4K1 w - - 5 21,c3,-27,46,73,1,27,Pa3->a2,2,closed
+Karpov,"Sosonko, Gennadi","Karpov, Anatoly",1979,r4rk1/1b1qbpp1/p3p2p/2P5/1pN1P3/5NP1/PPQ2PBP/R5K1 w - - 0 21,f3,-10,31,41,1,0,Pg3->g4,0,open
+Aronian,"Aronian,L","Thorfinnsson,Bj",2004,r2q1rk1/pb3p1p/1p3p2/2bn1P2/8/2NB4/PP2N1PP/2Q1RR1K w - - 0 21,e2,190,61,-129,1,8,Pf5->f4,1,open
+Krush,"Krush,I","Rubsamen,C",2010,r5k1/ppnr1pb1/2p1bqpp/2P1p3/P3P3/4B2P/1PQNBPP1/3R1RK1 w - - 1 21,d2,105,219,114,1,30,Pg2->g3,2,closed
+Topalov,"Kramnik, Vladimir","Topalov, Veselin",1996,2bq1rnk/1p6/p2p1bpp/P2Ppp2/NP2P3/3B1N2/5PPP/3QR1K1 w - - 0 21,a4,100,61,-39,1,19,Ph2->h3,3,closed
+So,"So,W","Karjakin,Sergey",2016,r3r1k1/pp1q1p2/2pnbnp1/3pR2p/3P1P2/P1NB1P2/1P1Q1BPP/R5K1 w - - 0 21,c3,51,143,92,1,21,Pg2->g3,1,open
+Ding,Ding Liren,"Battulga,N",2012,r3kb2/pb1q4/2p1p2r/1p3PQ1/2pPP3/2N5/PP2BpP1/R2R2K1 w q - 0 21,c3,135,288,153,1,9,Pe4->e3,0,open
+VachierLagrave,"Romero,V","Vachier Lagrave,M",2009,r2qk2r/3n1pp1/p7/2bbp3/Pp3P1p/3B4/1PPNNRPP/R3Q1K1 w kq - 0 21,e2,-247,-113,134,1,13,Pg2->g3,0,open
+Svidler,"Milov,V","Svidler,P",2001,2r1r1k1/p4pbp/3p2p1/1p6/2nPPB2/5N2/P3RPPP/3R2K1 w - - 0 21,f3,-36,27,63,1,3,Pd4->d5,0,open
+Le,Le Quang Liem,"Barbosa,O PHI",2013,2r1rbk1/pb3ppp/1n3n2/q1pP4/PpB2B2/1P1Q1NN1/5PPP/2RR2K1 w - - 3 21,f3,207,227,20,0,20,,1,open
+Smyslov,"Smyslov, Vassily","Haag, Ervin",1963,1kb3r1/ppp1n3/1n2prpp/3p4/3P1P1P/1PNR1NPB/P1P5/2K1R3 w - - 5 21,c3,108,235,127,1,17,Ph4->h5,1,open
+Nakamura,"Nakamura,Hi","Carlsen,M",2010,1n1r1rk1/2p2qpp/pp1nbp2/1PQ1p3/P3P3/2P2N1P/2B2PP1/R1B1R1K1 w - - 0 21,f3,-94,-21,73,1,19,Pg2->g3,2,closed
+Giri,"Volokitin,And","Giri,A",2014,2r4r/3k1ppp/p3p3/N2bP3/2pBnP2/P1P5/2P3PP/1R2K2R w K - 5 21,a5,32,12,-20,0,20,,2,closed
+Svidler,"Dvoirys, Semen I","Svidler, Peter",1993,r2qrbk1/5pp1/p1p2nbp/n2pp3/P3P3/2PPBPNN/B5PP/R2Q1RK1 w - - 4 21,h3,-12,62,74,2,8,Pd3->d2 Pf3->f2,1,open
+Giri,"Giri,A","Carlsen,M",2011,r4rk1/p2n2pp/1p6/2p1ppN1/2qP4/4P1P1/P2Q1PKP/R3R3 w - - 0 21,g5,-34,-100,-66,2,2,Pe3->e2 Pf2->f3,0,open
+Euwe,"Nimzowitsch, Aaron ","Euwe, Max",1929,2r2r2/pQ3nkp/6p1/3p1p2/3P3q/1P2P1RP/P1P3P1/RN4K1 w - - 1 21,b1,10,-130,-140,1,28,Pb3->b2,1,open
+Caruana,"Caruana,F","Radnai,A",2005,2rr2k1/3nqp2/4pbp1/pp6/2QPB3/2P2N2/1P3PP1/1K1R3R w - - 0 21,f3,98,106,8,0,8,,0,open
+Morphy,"Morphy, Paul ",NN,1858,r6k/pp2q2p/1bppPprp/8/2QPP3/2N2R2/P5PP/5R1K w - - 4 21,c3,235,299,64,1,21,Pe4->e3,0,open
+Korchnoi,"Korelov, Alexander P","Kortschnoj, Viktor",1962,r4rk1/4bppp/p3p3/3nP2Q/1p1Nq3/6B1/PPP3PP/3R1R1K w - - 5 21,d4,-97,-79,18,0,18,,1,open
+Petrosian,"Wade, Robert Graham","Petrosian, Tigran V",1952,b2r2k1/2q1bppp/5n2/2npp3/1p2P3/1P2QPP1/1BP1NNBP/5R1K w - - 0 21,e2,-113,-39,74,1,16,Pg3->g4,2,closed
+Kasparov,"Kasparov, Gary","Smirin, Ilia",1988,r1nqnrk1/3b2bp/1p1p4/1P1Pp1p1/N1N1Pp2/B4P2/4B1PP/1R1Q1RK1 w - - 5 21,a4,95,131,36,1,3,Ph2->h3,4,closed
+Nepomniachtchi,"Nepomniachtchi,I","Vernay,C",2005,4r1k1/5qbp/p1rQ4/1p2Pp2/5B2/2N5/PPP3bP/2KR2R1 w - - 2 21,c3,279,498,219,unrepaired,248,Pa2->a3 Pa3->a2,0,open
+VachierLagrave,"Toma,K","Vachier Lagrave,M",2012,1qrr2k1/1b1nbppp/pp1pp3/4n1P1/2PNP3/2N1BP2/PPR2Q1P/3R1BK1 w - - 1 21,c3,88,150,62,1,30,Pg5->g4,0,open
+Kasparov,"Kortschnoj, Viktor","Kasparov, Gary",1989,r1bq1r1k/2p3b1/1p1p1n1p/1N1PppB1/PQP5/5P2/4B1PP/R4RK1 w - - 0 21,b5,60,47,-13,0,13,,1,open
+Carlsen,"Lahno,Kateri","Carlsen,M",2006,1rbq2k1/5pp1/pb2rn1p/2p1pN2/B1PpPnP1/7P/PP2QP2/R1BRN1K1 w - - 4 21,e1,-165,-153,12,0,12,,2,closed
+Kasparov,"Kasparov, Gary","Huebner, Robert",1985,2r2rk1/1b1nqp1p/1pp3p1/8/1P1PB3/2Q5/3N1PPP/1R3RK1 w - - 1 21,d2,45,83,38,2,22,Pb4->b3 Pf2->f3,0,open
+Svidler,"Svidler, Peter","Lutz, Christopher",1994,2r1k2r/3bbpp1/3pp2p/p1q5/1pnNPPnP/3B2N1/PPP5/1KBR2QR w k - 0 21,g3,55,1,-54,1,2,Pe4->e5,0,open
+Kramnik,"Kramnik, Vladimir","Brenjo, Slavisa",1991,rr4k1/2q1n1bp/3p1np1/1bpPpp2/2P1P3/1N3P2/2QBB1PP/R4RK1 w - - 0 21,b3,155,212,57,1,20,Ph2->h3,3,closed
+Ivanchuk,"Kamsky, Gata","Ivanchuk, Vassily",1991,r4rk1/3q1bpp/3b4/pp1p4/3P1p2/1QP2P2/PP1BR1PP/4RNK1 w - - 0 21,f1,1,75,74,2,18,Pd4->d3 Pg2->g3,2,closed
+Petrosian,"Petrosian, Tigran V","Stahlberg, Gideon",1960,3rk2r/1p2ppb1/4b2p/2p3p1/PpnPP3/5NBP/1PB2PP1/RR4K1 w k - 0 21,f3,-34,-46,-12,0,12,,0,open
+Karpov,"Karpov, Anatoly","Taimanov, Mark E",1976,rq3rk1/1b1nbppp/3p4/1p2pP2/4P3/P3BB2/1PN3PP/R2Q1RK1 w - - 0 21,c2,1,42,41,1,30,Pb2->b3,1,open
